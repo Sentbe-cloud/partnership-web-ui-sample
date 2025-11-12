@@ -1,0 +1,1 @@
+.input{display:flex;flex-direction:column;align-items:flex-end;gap:4px}.input-label{font-size:12px;font-weight:400;color:#666;letter-spacing:0}.input-field{font-size:14px;font-weight:400;color:#000;letter-spacing:0;text-align:right;border:none;background:none;outline:none;width:auto;min-width:100px}input.input-field{cursor:text}input.input-field:focus{color:#000}
