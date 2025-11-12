@@ -1,1 +1,0 @@
-import{a as o}from"./emotion-react-jsx-runtime.browser.esm-aUWFuhMu.js";const r=({children:e})=>o("div",{className:"info",children:e});r.__docgenInfo={description:"",methods:[],displayName:"Info",props:{children:{required:!0,tsType:{name:"ReactNode"},description:""}}};export{r as I};
